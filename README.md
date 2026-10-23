@@ -59,63 +59,63 @@ Curated list of commercial and hosted playback solutions, indexed by scale, tran
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source players and servers, sorted by GitHub star count in descending order.
+Curated list of open-source players and servers, sorted by GitHub Stars_Count in descending order.
 
 ### 🏆 Category Heavyweights & Media Servers
 
-- **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
+- **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub_Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
   🌟 **The free, private Plex alternative.** GPL-2.0 licensed. 100% community-driven self-hosted media server with zero paywalls. Hardware transcoding (NVENC, VAAPI, QuickSync), multi-user profiles, live TV streaming, and cross-platform native clients (Android, iOS, Roku, Apple TV) are all completely free.
 
-- **[IINA](https://github.com/iina/iina)** [![GitHub Stars](https://img.shields.io/github/stars/iina/iina?style=social&color=white)](https://github.com/iina/iina/stargazers)  
+- **[IINA](https://github.com/iina/iina)** [![GitHub_Stars](https://img.shields.io/github/stars/iina/iina?style=social&color=white)](https://github.com/iina/iina/stargazers)  
   🍏 **The modern media player for macOS.** GPL-3.0 licensed. Engineered in Swift, tailored for modern macOS aesthetics with Dark Mode, Picture-in-Picture, Force Touch, Touch Bar controls, and seamless MPV backend integration.
 
-- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
   ✂️ **The Swiss Army knife of lossless video and audio trimming.** GPL-2.0 licensed. Electron/Chromium-based ultra-fast lossless video, audio, and subtitle editor built directly on FFmpeg. Cuts, mixes, and trims files instantaneously without re-encoding.
 
-- **[MPV](https://github.com/mpv-player/mpv)** [![GitHub Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=social&color=white)](https://github.com/mpv-player/mpv/stargazers)  
+- **[MPV](https://github.com/mpv-player/mpv)** [![GitHub_Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=social&color=white)](https://github.com/mpv-player/mpv/stargazers)  
   ⚙️ **The minimalist, scriptable power player.** GPL-2.0+ licensed. Lightweight, hyper-fast command-line driven engine with high-quality OpenGL, Vulkan, and D3D11 video output, customizable shaders, and extensive Lua/JavaScript scripting.
 
-- **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub Stars](https://img.shields.io/github/stars/navidrome/navidrome?style=social&color=white)](https://github.com/navidrome/navidrome/stargazers)  
+- **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub_Stars](https://img.shields.io/github/stars/navidrome/navidrome?style=social&color=white)](https://github.com/navidrome/navidrome/stargazers)  
   🎶 **Modern self-hosted music server & streamer.** GPL-3.0 licensed. Ultra-lightweight Golang and React music server compatible with Subsonic/Airsonic clients. Handles immense personal music collections on low-resource devices (like Raspberry Pi) with live transcoding.
 
-- **[FreeTube](https://github.com/FreeTubeApp/FreeTube)** [![GitHub Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=social&color=white)](https://github.com/FreeTubeApp/FreeTube/stargazers)  
+- **[FreeTube](https://github.com/FreeTubeApp/FreeTube)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=social&color=white)](https://github.com/FreeTubeApp/FreeTube/stargazers)  
   🛡️ **The private YouTube desktop player.** AGPL-3.0 licensed. Open-source privacy-focused YouTube client for Windows, macOS, and Linux that streams videos without tracking, bypasses annoying ads, and stores subscriptions locally.
 
-- **[Kodi](https://github.com/xbmc/xbmc)** [![GitHub Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=social&color=white)](https://github.com/xbmc/xbmc/stargazers)  
+- **[Kodi](https://github.com/xbmc/xbmc)** [![GitHub_Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=social&color=white)](https://github.com/xbmc/xbmc/stargazers)  
   📺 **The definitive home theater media center.** GPL-2.0 licensed. Transforms computers, HTPCs, and TVs into full-blown living room entertainment hubs with rich metadata scrapers, PVR/DVR integrations, and thousands of community plugins.
 
-- **[VLC media player](https://github.com/videolan/vlc)** [![GitHub Stars](https://img.shields.io/github/stars/videolan/vlc?style=social&color=white)](https://github.com/videolan/vlc/stargazers)  
+- **[VLC media player](https://github.com/videolan/vlc)** [![GitHub_Stars](https://img.shields.io/github/stars/videolan/vlc?style=social&color=white)](https://github.com/videolan/vlc/stargazers)  
   🌍 **The universal playback standard.** GPL-2.0+ licensed. Plays any format, codec, DVD, disc, or network stream without external codec packs. Fully cross-platform across Windows, macOS, Linux, iOS, and Android.
 
-- **[MPC-HC (Nightly / Clsid2 Fork)](https://github.com/clsid2/mpc-hc)** [![GitHub Stars](https://img.shields.io/github/stars/clsid2/mpc-hc?style=social&color=white)](https://github.com/clsid2/mpc-hc/stargazers)  
+- **[MPC-HC (Nightly / Clsid2 Fork)](https://github.com/clsid2/mpc-hc)** [![GitHub_Stars](https://img.shields.io/github/stars/clsid2/mpc-hc?style=social&color=white)](https://github.com/clsid2/mpc-hc/stargazers)  
   📼 **Lightweight Media Player Classic for Windows.** GPL-3.0 licensed. The actively maintained fork of Media Player Classic - Home Cinema featuring integrated LAV Filters, MPC Video Renderer, and HDR playback on modern Windows systems.
 
-- **[Beets](https://github.com/beetbox/beets)** [![GitHub Stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers)  
+- **[Beets](https://github.com/beetbox/beets)** [![GitHub_Stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers)  
   📚 **The media library manager for music obsessives.** MIT licensed. Powerful CLI and Python library that catalogs your music collection, fixes metadata using MusicBrainz/Discogs, renames files, and transposes album art.
 
-- **[Streamlink](https://github.com/streamlink/streamlink)** [![GitHub Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
+- **[Streamlink](https://github.com/streamlink/streamlink)** [![GitHub_Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
   📡 **CLI utility that pipes video streams into modern players.** BSD-2-Clause licensed. Extracts video streams from Twitch, YouTube, and other providers and pipes them directly into VLC or MPV for resource-friendly viewing.
 
 ### 🎧 Dedicated Music & Audio Players
 
-- **[Musikcube](https://github.com/clangen/musikcube)** [![GitHub Stars](https://img.shields.io/github/stars/clangen/musikcube?style=social&color=white)](https://github.com/clangen/musikcube/stargazers)  
+- **[Musikcube](https://github.com/clangen/musikcube)** [![GitHub_Stars](https://img.shields.io/github/stars/clangen/musikcube?style=social&color=white)](https://github.com/clangen/musikcube/stargazers)  
   📻 **Terminal-based audio engine and streaming library.** BSD-3-Clause licensed. Superb C++ terminal player and audio server for Linux, macOS, and Windows with gapless playback, crossfading, and low memory footprint.
 
-- **[Clementine](https://github.com/clementine-player/Clementine)** [![GitHub Stars](https://img.shields.io/github/stars/clementine-player/Clementine?style=social&color=white)](https://github.com/clementine-player/Clementine/stargazers)  
+- **[Clementine](https://github.com/clementine-player/Clementine)** [![GitHub_Stars](https://img.shields.io/github/stars/clementine-player/Clementine?style=social&color=white)](https://github.com/clementine-player/Clementine/stargazers)  
   🍊 **Modern multiplatform music player & library organizer.** GPL-3.0 licensed. Inspired by Amarok 1.4, featuring fast search, cloud storage playback (Dropbox, Drive), podcast support, and dynamic smart playlists.
 
-- **[Audacious](https://github.com/audacious-media-player/audacious)** [![GitHub Stars](https://img.shields.io/github/stars/audacious-media-player/audacious?style=social&color=white)](https://github.com/audacious-media-player/audacious/stargazers)  
+- **[Audacious](https://github.com/audacious-media-player/audacious)** [![GitHub_Stars](https://img.shields.io/github/stars/audacious-media-player/audacious?style=social&color=white)](https://github.com/audacious-media-player/audacious/stargazers)  
   🎛️ **Lightweight advanced audio player with Winamp skin support.** BSD-2-Clause licensed. Focused on pristine audio fidelity and negligible CPU usage with drag-and-drop playlists and custom audio effects.
 
 ### ⚡ Lightweight Video & Stream Aggregators
 
-- **[mpv.net](https://github.com/mpvnet-player/mpv.net)** [![GitHub Stars](https://img.shields.io/github/stars/mpvnet-player/mpv.net?style=social&color=white)](https://github.com/mpvnet-player/mpv.net/stargazers)  
+- **[mpv.net](https://github.com/mpvnet-player/mpv.net)** [![GitHub_Stars](https://img.shields.io/github/stars/mpvnet-player/mpv.net?style=social&color=white)](https://github.com/mpvnet-player/mpv.net/stargazers)  
   🪟 **Modern Windows GUI front-end for MPV.** MIT licensed. Brings MPV's robust playback engine to Windows users with context menus, config dialogs, and intuitive hotkeys.
 
-- **[SMPlayer](https://github.com/smplayer-dev/smplayer)** [![GitHub Stars](https://img.shields.io/github/stars/smplayer-dev/smplayer?style=social&color=white)](https://github.com/smplayer-dev/smplayer/stargazers)  
+- **[SMPlayer](https://github.com/smplayer-dev/smplayer)** [![GitHub_Stars](https://img.shields.io/github/stars/smplayer-dev/smplayer?style=social&color=white)](https://github.com/smplayer-dev/smplayer/stargazers)  
   📺 **Full-featured Qt graphical interface for MPV and MPlayer.** GPL-2.0+ licensed. Remembers playback settings for every individual file, downloads subtitles automatically, and streams YouTube content.
 
-- **[Stremio](https://github.com/Stremio/stremio-shell)** [![GitHub Stars](https://img.shields.io/github/stars/Stremio/stremio-shell?style=social&color=white)](https://github.com/Stremio/stremio-shell/stargazers)  
+- **[Stremio](https://github.com/Stremio/stremio-shell)** [![GitHub_Stars](https://img.shields.io/github/stars/Stremio/stremio-shell?style=social&color=white)](https://github.com/Stremio/stremio-shell/stargazers)  
   🎬 **Modern streaming video aggregation platform.** GPL-2.0/MIT licensed. Discovers, organizes, and watches video content through an extensible community add-on ecosystem.
 
 ---
