@@ -42,29 +42,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Plex](https://www.plex.tv/)** | Polished media server and player with streaming channels, remote access, and hardware transcoding. | **Plex Pass**: $6.99/month or $69.99/year. **Lifetime Pass**: $750 (tripled from $250 on July 1, 2026) . | **Free**: Basic media server, streaming channels, and local playback. Hardware transcoding, mobile sync, and remote streaming require Plex Pass . |
-
-| **[PowerDVD](https://www.cyberlink.com/)** | Commercial Blu-ray/DVD player with 8K playback and cloud media management. | **$29 flat rate** (Capterra listing); one-time license after trial expires . | **Free trial** available. No permanent free tier—continued use requires purchase . |
-
-| **[DivX Pro](https://www.divx.com/)** | Video player, converter, and media server with 4K playback and cloud storage. | **$13.99 one-time payment** for Pro upgrade . | **Free version** includes DivX Player; Pro unlocks advanced conversion, no ads, and cloud features . |
-
-| **[KMPlayer](https://www.kmplayer.com/)** | Feature-rich video player for Windows, macOS, and mobile. | **Free** with in-app purchases ($1.99–$19.99 per item) on mobile . | **Fully free** on desktop. Mobile version has optional in-app purchases. |
-
-| **[PotPlayer](https://potplayer.daum.net/)** | Windows video player with extensive codec support, hardware acceleration, and subtitle handling. | **Free** for personal use. No paid tier or subscription . | **Fully free** for personal media playback. Commercial use restricted by license terms . |
-
-| **[GOM Player](https://www.gomlab.com/)** | Video player with 360-degree video support and subtitle handling. | **Free** (ad-supported). **GOM Player+**: ¥2,200 lifetime (campaign ¥1,100) for ad-free and AI features . | **Free version** with ads. GOM Player+ removes ads and adds AI upscaling/subtitles . |
-
-| **[Windows Media Player](https://support.microsoft.com/en-us/windows/get-windows-media-player-817cca05-da25-7f8a-9cf5-8a5b3a4e8b8e)** | Microsoft's built-in media player for Windows 10/11. | **Free** (included with Windows) . | **Fully free** as part of the Windows operating system. |
-
-| **[QuickTime Player](https://support.apple.com/quicktime)** | Apple's built-in media player for macOS. | **Free** (pre-installed on Mac) . | **Fully free** with no watermark, no expiration . |
-
-
+| Product | Description | Company Scale (Market Cap / Valuation / Revenue) | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[QuickTime Player](https://support.apple.com/quicktime)** | Apple's built-in media player for macOS with video playback, audio recording, screen recording, and basic editing. | Apple: ~$5.0 Trillion Market Cap (~$391B revenue) | **Free** (bundled with macOS / pre-installed on Mac hardware) | **Free forever plan**: Unlimited use bundled with macOS. Full feature set (playback, recording, trim/export) with no watermark or time limits. |
+| **[Windows Media Player](https://support.microsoft.com/en-us/windows/get-windows-media-player-817cca05-da25-7f8a-9cf5-8a5b3a4e8b8e)** | Microsoft's built-in media player for Windows 10/11 with local library management, audio CD ripping, and video playback. | Microsoft: ~$3.9 Trillion Market Cap (~$245B revenue) | **Free** (bundled with Windows OS license) | **Free forever plan**: Unlimited personal use bundled with Windows operating system. No expiration, no feature limits, and no ads. |
+| **[PotPlayer](https://potplayer.daum.net/)** | Windows video player with extensive codec support, 3D/360-degree video support, hardware acceleration, and subtitle customization. | Kakao Corp.: ~$10.5 Billion Market Cap (~$6.0B revenue) | **Free** for personal use (ad-supported freeware; commercial deployment requires corporate licensing) | **Free forever plan**: Unlimited personal video playback on Windows. No playback restrictions or expiration; commercial distribution/use restricted. |
+| **[PowerDVD](https://www.cyberlink.com/)** | Commercial media and Blu-ray/DVD player with 4K/8K playback, TrueTheater AI enhancements, and cloud media casting. | CyberLink Corp.: ~$145 Million Market Cap (~NT$2.4B / $75M revenue) | **$59.99 one-time** (Standard Edition lifetime license); **PowerDVD 365** subscription starts at $54.99/year | **7-day free trial**: 7 days of full premium feature access. After 7 days, reverts to basic playback mode (locks Blu-ray/DVD/ISO playback, 8K video, and TrueTheater AI enhancements). |
+| **[Plex](https://www.plex.tv/)** | Polished media server and streaming client with live FAST TV channels, remote media streaming, and multi-device library management. | Plex, Inc.: ~$60M–$65M Annual Revenue ($132M total VC funding raised) | **Plex Pass**: $6.99/month (or $69.99/year); **Lifetime Pass**: $750 (tripled from $250 on July 1, 2026) | **Free forever plan**: Unlimited local playback, media organization, and 600+ ad-supported FAST streaming channels. Hardware transcoding, mobile sync, and remote streaming relay restricted to Plex Pass. |
+| **[DivX Pro](https://www.divx.com/)** | High-definition video player, media converter, and casting server with HEVC 10-bit playback and cloud storage integrations. | DivX, LLC: ~$13.3 Million Annual Revenue (Privately held, Fortress Investment Group) | **$13.99 one-time** payment for DivX Pro lifetime upgrade | **Free forever plan**: Unlimited standard DivX Player and Converter usage (ad-supported). Cloud Connect, DTS-HD audio, DFX Audio Enhancer, and ad-free experience require Pro purchase. |
+| **[KMPlayer](https://www.kmplayer.com/)** | Versatile media player supporting 4K, 8K, 60FPS playback with built-in codecs, YouTube streaming, and subtitle customization. | Pandora TV: ~$3.55 Million Market Cap (~$9.9M revenue) | **Free** on desktop; Mobile version offers optional in-app purchases starting at **$1.99** | **Free forever plan**: Fully free desktop playback with unlimited watch time and format decoding. Mobile free version includes ads with optional $1.99–$19.99 in-app purchases. |
+| **[GOM Player](https://www.gomlab.com/)** | Desktop media player featuring 360-degree VR playback, damaged file playback, codec search service, and subtitle finder. | GOM & Company: ~$4M–$5M Annual Revenue (Private unlisted entity) | **GOM Player+**: ¥1,100–¥2,200 (~$7.50–$15.00) one-time lifetime license; free version is ad-supported | **Free forever plan**: Free personal desktop playback with advertisements. Advanced 4K/UHD playback without ads and AI subtitle generation require GOM Player+ lifetime license. |
 
 ## Open-Source GitHub Projects
 
