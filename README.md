@@ -1,46 +1,48 @@
-# Awesome-Media-Players
+<div align="center">
 
-## Top Media Players Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Media-Players">
+  <img src="assets/banner.svg" alt="Awesome Media Players Banner" width="100%" />
+</a>
 
+# 🎬 Awesome Media Players 🎧
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Media-Players/pulls) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Media-Players) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**Curated list of awesome media players, video streamers, cross-platform audio engines, and self-hosted home theater media servers.**
 
-*Focused on Video/Audio Playback, Media Center Management & Self-Hosted Streaming Servers*  
+A modern, comprehensive showcase of top SaaS multimedia tools and battle-tested open-source GitHub projects.
 
-**Last updated: October 2026**
+[Explore SaaS Platforms](#-saas--hosted-platforms) • [Explore Open-Source Players](#-open-source-github-projects) • [Contributing](#-how-to-contribute) • [Support](#-support)
 
+</div>
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Media Players**. These tools enable users to play local and streaming media—videos, music, and podcasts—ranging from lightweight desktop players that handle any codec to full media center platforms that organize and stream libraries across devices.
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏆 Category Heavyweights & Media Servers](#-category-heavyweights--media-servers)
+  - [🎧 Dedicated Music & Audio Players](#-dedicated-music--audio-players)
+  - [⚡ Lightweight Video & Stream Aggregators](#-lightweight-video--stream-aggregators)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⚠️ Disclaimer](#-disclaimer)
+- [📈 Star History](#-star-history)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include VLC, Kodi, Plex, Jellyfin, Windows Media Player, PotPlayer, and MPV (the category leaders).
+The global media player software market is valued at approximately **$4.1B to $5.1B in 2026** (scaling toward over $8.5B by the mid-2030s at a steady 7.5%–7.8% CAGR), while the broader connected digital media player ecosystem exceeds **$17.5B**. 
 
+The sector exhibits **moderate-to-high fragmentation** characterized by distinct niches: proprietary OS giants (Apple QuickTime, Microsoft Media Player) capture passive desktop users, while power users and self-hosters heavily favor modular open-source stacks (VLC, Kodi, Jellyfin, MPV) and hybrid freemium ecosystems (Plex). Market dynamics are defined not by winner-take-all consolidation, but by protocol interoperability, codec efficiency (AV1, HEVC, HDR10), and consumer demand for privacy-focused local media ownership.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscription fees, and controlling your media library. The open-source landscape is anchored by **VLC** (the universal player with 90k+ stars and support for virtually every format), **Kodi** (the media center standard with 21.2+ releases), **Jellyfin** (the free Plex alternative with no paywalled features), and **MPV** (the minimalist, scriptable player), with **Plex** serving as the polished proprietary option and **PotPlayer** dominating the Windows freeware niche.
+## ☁️ SaaS & Hosted Platforms
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+Curated list of commercial and hosted playback solutions, indexed by scale, transparent pricing models, and specific free tier limitations.
 
 | Product | Description | Company Scale (Market Cap / Valuation / Revenue) | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -53,90 +55,107 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[KMPlayer](https://www.kmplayer.com/)** | Versatile media player supporting 4K, 8K, 60FPS playback with built-in codecs, YouTube streaming, and subtitle customization. | Pandora TV: ~$3.55 Million Market Cap (~$9.9M revenue) | **Free** on desktop; Mobile version offers optional in-app purchases starting at **$1.99** | **Free forever plan**: Fully free desktop playback with unlimited watch time and format decoding. Mobile free version includes ads with optional $1.99–$19.99 in-app purchases. |
 | **[GOM Player](https://www.gomlab.com/)** | Desktop media player featuring 360-degree VR playback, damaged file playback, codec search service, and subtitle finder. | GOM & Company: ~$4M–$5M Annual Revenue (Private unlisted entity) | **GOM Player+**: ¥1,100–¥2,200 (~$7.50–$15.00) one-time lifetime license; free version is ad-supported | **Free forever plan**: Free personal desktop playback with advertisements. Advanced 4K/UHD playback without ads and AI subtitle generation require GOM Player+ lifetime license. |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source GitHub Projects
 
+Curated list of open-source players and servers, sorted by GitHub star count in descending order.
 
-- **[VLC media player](https://github.com/videolan/vlc)** [![GitHub Stars](https://img.shields.io/github/stars/videolan/vlc?style=social&color=white)](https://github.com/videolan/vlc/stargazers)  
-
-  **The universal player standard.** ~90k+ stars, GPL-2.0+ licensed. Plays virtually every media format and streaming protocol without additional codec packs. **Features**: cross-platform (Windows, macOS, Linux, Android, iOS), network streaming, screen recording, and subtitle support. **Strengths**: the most format-compatible player available; no ads, no tracking, no paid tier. Best for any user who wants a single player that handles everything without configuration.
-
-
-
-- **[Kodi](https://github.com/xbmc/xbmc)** [![GitHub Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=social&color=white)](https://github.com/xbmc/xbmc/stargazers)  
-
-  **The media center standard.** ~21k+ stars, GPL-2.0 licensed. Transforms any computer into a full home theater PC with library organization, metadata scraping, and add-on ecosystem. **Latest**: Kodi 21.2 "Omega" (2026) with continued stability updates. **Strengths**: deep customization, TV-friendly interface, and support for local and network media. **Trade-offs**: setup overhead for library organization; add-on ecosystem varies in quality. Best for home theater enthusiasts wanting a full media center experience.
-
-
+### 🏆 Category Heavyweights & Media Servers
 
 - **[Jellyfin](https://github.com/jellyfin/jellyfin)** [![GitHub Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)  
+  🌟 **The free, private Plex alternative.** GPL-2.0 licensed. 100% community-driven self-hosted media server with zero paywalls. Hardware transcoding (NVENC, VAAPI, QuickSync), multi-user profiles, live TV streaming, and cross-platform native clients (Android, iOS, Roku, Apple TV) are all completely free.
 
-  **The free Plex alternative.** ~38k+ stars, GPL-2.0 licensed. Self-hosted media server with **no paywalled features**—hardware transcoding, remote streaming, and mobile sync are all free . **Strengths**: complete feature parity with Plex's paid tier without the $750 lifetime cost; keeps data local and doesn't share with third parties. **Trade-offs**: requires more setup for remote streaming (no central relay server). Best for users who want Plex-like functionality without subscriptions or data sharing.
+- **[IINA](https://github.com/iina/iina)** [![GitHub Stars](https://img.shields.io/github/stars/iina/iina?style=social&color=white)](https://github.com/iina/iina/stargazers)  
+  🍏 **The modern media player for macOS.** GPL-3.0 licensed. Engineered in Swift, tailored for modern macOS aesthetics with Dark Mode, Picture-in-Picture, Force Touch, Touch Bar controls, and seamless MPV backend integration.
 
-
+- **[LosslessCut](https://github.com/mifi/lossless-cut)** [![GitHub Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)  
+  ✂️ **The Swiss Army knife of lossless video and audio trimming.** GPL-2.0 licensed. Electron/Chromium-based ultra-fast lossless video, audio, and subtitle editor built directly on FFmpeg. Cuts, mixes, and trims files instantaneously without re-encoding.
 
 - **[MPV](https://github.com/mpv-player/mpv)** [![GitHub Stars](https://img.shields.io/github/stars/mpv-player/mpv?style=social&color=white)](https://github.com/mpv-player/mpv/stargazers)  
+  ⚙️ **The minimalist, scriptable power player.** GPL-2.0+ licensed. Lightweight, hyper-fast command-line driven engine with high-quality OpenGL, Vulkan, and D3D11 video output, customizable shaders, and extensive Lua/JavaScript scripting.
 
-  **The minimalist, scriptable player.** ~30k+ stars, GPL-2.0+ licensed. Command-line-focused player with a minimal GUI and extensive scripting (Lua/JS) for customization. **Strengths**: lightweight, highly configurable, and excellent video quality. **Trade-offs**: not beginner-friendly; requires configuration for advanced features. Best for power users and developers wanting a customizable playback engine.
+- **[Navidrome](https://github.com/navidrome/navidrome)** [![GitHub Stars](https://img.shields.io/github/stars/navidrome/navidrome?style=social&color=white)](https://github.com/navidrome/navidrome/stargazers)  
+  🎶 **Modern self-hosted music server & streamer.** GPL-3.0 licensed. Ultra-lightweight Golang and React music server compatible with Subsonic/Airsonic clients. Handles immense personal music collections on low-resource devices (like Raspberry Pi) with live transcoding.
 
+- **[FreeTube](https://github.com/FreeTubeApp/FreeTube)** [![GitHub Stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube?style=social&color=white)](https://github.com/FreeTubeApp/FreeTube/stargazers)  
+  🛡️ **The private YouTube desktop player.** AGPL-3.0 licensed. Open-source privacy-focused YouTube client for Windows, macOS, and Linux that streams videos without tracking, bypasses annoying ads, and stores subscriptions locally.
 
+- **[Kodi](https://github.com/xbmc/xbmc)** [![GitHub Stars](https://img.shields.io/github/stars/xbmc/xbmc?style=social&color=white)](https://github.com/xbmc/xbmc/stargazers)  
+  📺 **The definitive home theater media center.** GPL-2.0 licensed. Transforms computers, HTPCs, and TVs into full-blown living room entertainment hubs with rich metadata scrapers, PVR/DVR integrations, and thousands of community plugins.
 
-- **[Kodi (alternate clients)](https://github.com/xbmc)** [![GitHub Stars](https://img.shields.io/github/stars/xbmc?style=social&color=white)](https://github.com/xbmc)  
+- **[VLC media player](https://github.com/videolan/vlc)** [![GitHub Stars](https://img.shields.io/github/stars/videolan/vlc?style=social&color=white)](https://github.com/videolan/vlc/stargazers)  
+  🌍 **The universal playback standard.** GPL-2.0+ licensed. Plays any format, codec, DVD, disc, or network stream without external codec packs. Fully cross-platform across Windows, macOS, Linux, iOS, and Android.
 
-  The Kodi organization maintains multiple clients for Android, iOS, and embedded platforms. Best for users wanting Kodi's media center experience on mobile or TV devices.
+- **[MPC-HC (Nightly / Clsid2 Fork)](https://github.com/clsid2/mpc-hc)** [![GitHub Stars](https://img.shields.io/github/stars/clsid2/mpc-hc?style=social&color=white)](https://github.com/clsid2/mpc-hc/stargazers)  
+  📼 **Lightweight Media Player Classic for Windows.** GPL-3.0 licensed. The actively maintained fork of Media Player Classic - Home Cinema featuring integrated LAV Filters, MPC Video Renderer, and HDR playback on modern Windows systems.
 
+- **[Beets](https://github.com/beetbox/beets)** [![GitHub Stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers)  
+  📚 **The media library manager for music obsessives.** MIT licensed. Powerful CLI and Python library that catalogs your music collection, fixes metadata using MusicBrainz/Discogs, renames files, and transposes album art.
 
+- **[Streamlink](https://github.com/streamlink/streamlink)** [![GitHub Stars](https://img.shields.io/github/stars/streamlink/streamlink?style=social&color=white)](https://github.com/streamlink/streamlink/stargazers)  
+  📡 **CLI utility that pipes video streams into modern players.** BSD-2-Clause licensed. Extracts video streams from Twitch, YouTube, and other providers and pipes them directly into VLC or MPV for resource-friendly viewing.
 
-### Additional Strong Open-Source Options
+### 🎧 Dedicated Music & Audio Players
 
+- **[Musikcube](https://github.com/clangen/musikcube)** [![GitHub Stars](https://img.shields.io/github/stars/clangen/musikcube?style=social&color=white)](https://github.com/clangen/musikcube/stargazers)  
+  📻 **Terminal-based audio engine and streaming library.** BSD-3-Clause licensed. Superb C++ terminal player and audio server for Linux, macOS, and Windows with gapless playback, crossfading, and low memory footprint.
 
+- **[Clementine](https://github.com/clementine-player/Clementine)** [![GitHub Stars](https://img.shields.io/github/stars/clementine-player/Clementine?style=social&color=white)](https://github.com/clementine-player/Clementine/stargazers)  
+  🍊 **Modern multiplatform music player & library organizer.** GPL-3.0 licensed. Inspired by Amarok 1.4, featuring fast search, cloud storage playback (Dropbox, Drive), podcast support, and dynamic smart playlists.
 
-- **mpv.net** — Windows GUI wrapper for MPV with a more familiar interface. Best for Windows users wanting MPV's quality with a standard UI.
+- **[Audacious](https://github.com/audacious-media-player/audacious)** [![GitHub Stars](https://img.shields.io/github/stars/audacious-media-player/audacious?style=social&color=white)](https://github.com/audacious-media-player/audacious/stargazers)  
+  🎛️ **Lightweight advanced audio player with Winamp skin support.** BSD-2-Clause licensed. Focused on pristine audio fidelity and negligible CPU usage with drag-and-drop playlists and custom audio effects.
 
-- **SMPlayer** — Qt-based GUI for MPV and MPlayer with YouTube integration. Best for users wanting a traditional player interface with MPV backend.
+### ⚡ Lightweight Video & Stream Aggregators
 
-- **Stremio** — Open-source streaming aggregator (client is open, addons vary). Best for users wanting a unified streaming interface.
+- **[mpv.net](https://github.com/mpvnet-player/mpv.net)** [![GitHub Stars](https://img.shields.io/github/stars/mpvnet-player/mpv.net?style=social&color=white)](https://github.com/mpvnet-player/mpv.net/stargazers)  
+  🪟 **Modern Windows GUI front-end for MPV.** MIT licensed. Brings MPV's robust playback engine to Windows users with context menus, config dialogs, and intuitive hotkeys.
 
+- **[SMPlayer](https://github.com/smplayer-dev/smplayer)** [![GitHub Stars](https://img.shields.io/github/stars/smplayer-dev/smplayer?style=social&color=white)](https://github.com/smplayer-dev/smplayer/stargazers)  
+  📺 **Full-featured Qt graphical interface for MPV and MPlayer.** GPL-2.0+ licensed. Remembers playback settings for every individual file, downloads subtitles automatically, and streams YouTube content.
 
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Plex's lifetime price tripled to $750** on July 1, 2026. Jellyfin offers comparable features for free, though remote streaming requires more setup .
-
-- **Free players have limits**: GOM Player's free version is ad-supported; DivX Pro unlocks features beyond the free player; PowerDVD requires purchase after trial.
-
-- **PotPlayer is free for personal use** but restricted for commercial use. Verify licensing before deploying in business environments .
-
-- **Media players are not media servers**: VLC and MPV play files; Kodi, Jellyfin, and Plex organize and stream libraries across devices. Choose based on whether you need playback or a full media center.
-
-
+- **[Stremio](https://github.com/Stremio/stremio-shell)** [![GitHub Stars](https://img.shields.io/github/stars/Stremio/stremio-shell?style=social&color=white)](https://github.com/Stremio/stremio-shell/stargazers)  
+  🎬 **Modern streaming video aggregation platform.** GPL-2.0/MIT licensed. Discovers, organizes, and watches video content through an extensible community add-on ecosystem.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions, feature additions, and corrections are warmly welcomed! 🌟
 
-**Made for media enthusiasts, home theater builders, and users who want control over their playback experience.**  
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a topic branch**: `git checkout -b feature/add-new-player`
+3. 📝 **Add or update an entry** in `README.md` (keep descriptions factual, include license, and use correct badge syntax).
+4. 🚀 **Commit your changes**: `git commit -m 'Add AmazingPlayer to open-source tools'`
+5. 📬 **Open a Pull Request** with a concise summary of the addition.
 
-Let's make media players more open, format-agnostic, and appropriately scoped.
+---
+
+## 💖 Support
+
+Thank you for visiting **Awesome Media Players**! If you find this curated collection helpful in discovering the right player or setting up your media server, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** with your fellow self-hosters and audiophiles.
+- ☕ **Buy a coffee / Sponsor**: If you'd like to support ongoing maintenance and new tools discovery, visit the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated list compiled for educational, research, and technical reference purposes.
+- Trademarks, product names, and brand logos belong to their respective owners.
+- Codec licenses and streaming legalities vary by jurisdiction; please verify software compliance in your jurisdiction before commercial deployment.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Media-Players&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Media-Players&type=date&legend=top-left)
+
+---
+
+<div align="center">
+  Made with ❤️ for audiophiles, cinephiles, and self-hosted home theater enthusiasts worldwide.
+</div>
