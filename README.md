@@ -59,7 +59,7 @@ Curated list of commercial and hosted playback solutions, indexed by scale, tran
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of open-source players and servers, sorted by GitHub Stars_Count in descending order.
+Curated list of open-source players and servers, sorted by GitHub_Stars_Count in descending order.
 
 ### 🏆 Category Heavyweights & Media Servers
 
