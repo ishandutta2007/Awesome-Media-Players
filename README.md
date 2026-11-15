@@ -117,6 +117,8 @@ Curated list of open-source players and servers, sorted by GitHub_Stars_Count in
 
 - **[Stremio](https://github.com/Stremio/stremio-shell)** [![GitHub_Stars](https://img.shields.io/github/stars/Stremio/stremio-shell?style=social&color=white)](https://github.com/Stremio/stremio-shell/stargazers)  
   🎬 **Modern streaming video aggregation platform.** GPL-2.0/MIT licensed. Discovers, organizes, and watches video content through an extensible community add-on ecosystem.
+- **[Open Media Explorer](https://github.com/aivrar/Open-Media-Explorer)** [![GitHub_Stars](https://img.shields.io/github/stars/aivrar/Open-Media-Explorer?style=social&color=white)](https://github.com/aivrar/Open-Media-Explorer/stargazers)  
+  📻 **Portable Windows player for internet radio, live TV and open archives.** MIT licensed. Single-EXE app that browses radio stations, IPTV channels, podcasts, public-domain films and Internet Archive media from 11 public sources, with M3U playlist import, a ten-band EQ and stream recording. No account or telemetry.
 
 ---
 
